@@ -70,7 +70,7 @@ The RNN architecture was chosen because of its ability to efficiently process te
 - Dropout: 0.5.
   
 **Training:**
-- Number of epochs: 200 epochs
+- Number of epochs: 200 epochs.
 - Loss function: MSE, standard practice for regression problems. 
 - Optimiser: Adam, lr = 0.001.
 
