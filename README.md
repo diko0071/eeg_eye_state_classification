@@ -37,7 +37,7 @@ Time-domain distribution with lables.
 
 ![labeled_data](https://github.com/diko0071/eeg_eye_state_classification/assets/82669452/4e5a05fa-29e5-43d1-b19f-11994a6b8118)
 
-The data is still very noisy, so we apply a scaling average to reduce it and smooth out the short line fluctuations. 
+The data is still very noisy, so we apply a moving average to reduce it and smooth out the short line fluctuations. 
 
 ![moving_average](https://github.com/diko0071/eeg_eye_state_classification/assets/82669452/4f9b4258-b73d-4402-87a6-65607b7e579d)
 
