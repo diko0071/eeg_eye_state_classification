@@ -67,7 +67,7 @@ The RNN architecture was chosen because of its ability to efficiently process te
 **Model parameters:**
 - Number of layers: 3 hidden layers.
 - Hidden layer size: 512.
-- Dropout: Standard, at level 0.5.
+- Dropout: 0.5.
   
 **Training:**
 - Number of epochs: 200 epochs
